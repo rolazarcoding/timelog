@@ -1,4 +1,4 @@
-# Time Logs
+# Time Log
 
 [Live class time](https://forms.gle/dipXNZGyhiHfHweM9)
 
