@@ -8,6 +8,8 @@
 
 ### Tools
 
-[Attendance](https://docs.google.com/spreadsheets/d/1flnMx8Y5Rqx_m-nX8Iiob1yb7lPMgoPw8T_WHTGj7oc/edit#gid=855170651)
+[Attendance](https://docs.google.com/spreadsheets/d/1flnMx8Y5Rqx_m-nX8Iiob1yb7lPMgoPw8T_WHTGj7oc/edit)
+
+[Progress report](https://docs.google.com/spreadsheets/d/1dmrXSXufgiiIBJps2TuzmeXjuG3N-zb9yPNdT3w2qtI/edit)
 
 [Mentor breakout rooms](https://codex-mentors-dashboard.replit.app/mentors)
