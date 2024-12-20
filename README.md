@@ -12,4 +12,6 @@
 
 [Progress report](https://docs.google.com/spreadsheets/d/1dmrXSXufgiiIBJps2TuzmeXjuG3N-zb9yPNdT3w2qtI/edit)
 
+[Curriculum](https://docs.google.com/document/d/19v4QG13oX9R5sEB7WUp307rs66Lkf0HMYAVobbRbNGA)
+
 [Mentor breakout rooms](https://codex-mentors-dashboard.replit.app/mentors)
