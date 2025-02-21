@@ -15,3 +15,5 @@
 [Curriculum](https://docs.google.com/document/d/19v4QG13oX9R5sEB7WUp307rs66Lkf0HMYAVobbRbNGA)
 
 [Mentor breakout rooms](https://codex-mentors-dashboard.replit.app/mentors)
+
+[Certification Tracker](https://docs.google.com/spreadsheets/d/1R_G8rvX_4w7hW5uurJpru5v6pKnuccVAUkGqK5PqRqE/edit?gid=878167152#gid=878167152)
